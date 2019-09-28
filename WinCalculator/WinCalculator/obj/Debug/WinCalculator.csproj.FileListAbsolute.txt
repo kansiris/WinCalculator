@@ -1,0 +1,16 @@
+C:\Banshi\DemoProjs\WinCalculator\WinCalculator\bin\Debug\WinCalculator.exe
+C:\Banshi\DemoProjs\WinCalculator\WinCalculator\bin\Debug\WinCalculator.pdb
+C:\Banshi\DemoProjs\WinCalculator\WinCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Banshi\DemoProjs\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Form1.resources
+C:\Banshi\DemoProjs\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Properties.Resources.resources
+C:\Banshi\DemoProjs\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.GenerateResource.Cache
+C:\Banshi\DemoProjs\WinCalculator\WinCalculator\obj\Debug\WinCalculator.exe
+C:\Banshi\DemoProjs\WinCalculator\WinCalculator\obj\Debug\WinCalculator.pdb
+C:\Users\banshi\Desktop\WinCalculator\WinCalculator\obj\Debug\WinCalculator.exe
+C:\Users\banshi\Desktop\WinCalculator\WinCalculator\obj\Debug\WinCalculator.pdb
+C:\Users\banshi\Desktop\WinCalculator\WinCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\banshi\Desktop\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Form1.resources
+C:\Users\banshi\Desktop\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Properties.Resources.resources
+C:\Users\banshi\Desktop\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.GenerateResource.Cache
+C:\Users\banshi\Desktop\WinCalculator\WinCalculator\bin\Debug\WinCalculator.exe
+C:\Users\banshi\Desktop\WinCalculator\WinCalculator\bin\Debug\WinCalculator.pdb
